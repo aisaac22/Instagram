@@ -21,4 +21,4 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-![](https://i.imgur.com/Gykux3r.gif)
+![](https://i.imgur.com/PkpjGGD.gif)
