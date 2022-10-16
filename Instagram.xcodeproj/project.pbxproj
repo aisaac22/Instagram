@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D049C0628FBC96100BF36C0 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D049C0528FBC96100BF36C0 /* CommentCell.swift */; };
 		4D89165828F3C7FA00D2EBB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D89165728F3C7FA00D2EBB4 /* AppDelegate.swift */; };
 		4D89165A28F3C7FA00D2EBB4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D89165928F3C7FA00D2EBB4 /* SceneDelegate.swift */; };
 		4D89165F28F3C7FA00D2EBB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D89165D28F3C7FA00D2EBB4 /* Main.storyboard */; };
@@ -45,6 +46,7 @@
 		0FE104C1F888E47414CC6805 /* Pods-InstagramTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramTests.release.xcconfig"; path = "Target Support Files/Pods-InstagramTests/Pods-InstagramTests.release.xcconfig"; sourceTree = "<group>"; };
 		3A99D272C35EF5EAADDA2C3B /* Pods_Instagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Instagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		408BFD2101219EF0D926B486 /* Pods_InstagramTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstagramTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D049C0528FBC96100BF36C0 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		4D89165428F3C7FA00D2EBB4 /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D89165728F3C7FA00D2EBB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D89165928F3C7FA00D2EBB4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				4D89165928F3C7FA00D2EBB4 /* SceneDelegate.swift */,
 				4D89165D28F3C7FA00D2EBB4 /* Main.storyboard */,
 				4D89168728F3CEF400D2EBB4 /* LoginViewController.swift */,
+				4D049C0528FBC96100BF36C0 /* CommentCell.swift */,
 				4D89168F28F3E6F700D2EBB4 /* PostCell.swift */,
 				4D89166028F3C7FF00D2EBB4 /* Assets.xcassets */,
 				4D89168D28F3DC9D00D2EBB4 /* CameraViewController.swift */,
@@ -421,6 +424,7 @@
 				4D89168A28F3CF0100D2EBB4 /* FeedViewController.swift in Sources */,
 				4D89165A28F3C7FA00D2EBB4 /* SceneDelegate.swift in Sources */,
 				4D89169028F3E6F700D2EBB4 /* PostCell.swift in Sources */,
+				4D049C0628FBC96100BF36C0 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
