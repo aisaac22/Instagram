@@ -4,7 +4,7 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented features:
 
 ![](https://i.imgur.com/uAt7qMc.gif)
 
